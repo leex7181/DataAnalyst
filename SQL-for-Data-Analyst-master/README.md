@@ -1,5 +1,4 @@
 # SQL-for-Data-Analyst
-I will be posting all the SQL code from my You-tube channel
 
 Raw Data (Dummy):
 1) Revenue Data
